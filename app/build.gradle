@@ -32,3 +32,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile project(path: ':udpsenderlib')
 }
+dependencies {
+       ...
+       compile 'com.jwkj:udpsender:v2.0.2'
+    }
